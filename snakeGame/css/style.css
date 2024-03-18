@@ -1,0 +1,17 @@
+
+header {
+    display: inherit;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: orange;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    text-align: center;
+}
+
